@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+    <string-array name="nombres_array">
+        <item>Juan García</item>
+        <item>María Rodríguez</item>
+        <item>Carlos Martínez</item>
+        <item>Ana López</item>
+        <item>José Pérez</item>
+        <item>Laura Sánchez</item>
+        <item>Luis González</item>
+        <item>Marta Díaz</item>
+        <item>David Fernández</item>
+        <item>Sandra Ruiz</item>
+        <item>Francisco Diaz</item>
+        <item>Elena Jiménez</item>
+        <item>Javier Álvarez</item>
+        <item>Carmen Moreno</item>
+        <item>Manuel Torres</item>
+        <item>Paula Gómez</item>
+        <item>Andrés López</item>
+        <item>Marta Martínez</item>
+        <item>Ricardo Fernández</item>
+        <item>Sofía Pérez</item>
+        <item>Diego González</item>
+        <item>Patricia Sánchez</item>
+        <item>Rafael Rodríguez</item>
+        <item>Isabel García</item>
+        <item>Jorge Ruiz</item>
+        <item>Beatriz Díaz</item>
+        <item>Pablo Torres</item>
+        <item>Verónica Jiménez</item>
+        <item>Antonio Moreno</item>
+        <item>Lorena Hernández</item>
+        <item>Francisco López</item>
+        <item>Lucía Martínez</item>
+        <item>Juan Carlos Gómez</item>
+        <item>María José Pérez</item>
+        <item>Pedro Sánchez</item>
+        <item>Raquel Fernández</item>
+        <item>Emilio García</item>
+        <item>Olivia Ruiz</item>
+        <item>Alberto Rodríguez</item>
+    </string-array>
+
+    <string-array name="descripciones_array">
+        <item>Profesional dedicado/a en su campo de especialización.</item>
+        <item>Creativo/a con pasión por las artes y la expresión.</item>
+        <item>Viajero/a que disfruta explorando nuevas culturas.</item>
+        <item>Estudiante comprometido/a con la investigación y la ciencia.</item>
+        <item>Emprendedor/a comprometido/a con la sostenibilidad.</item>
+        <item>Amante de la fotografía y el cine independiente.</item>
+        <item>Desarrollador/a de software interesado/a en la inteligencia artificial.</item>
+        <item>Entrenador/a personal con enfoque en el bienestar emocional.</item>
+        <item>Escritor/a con fascinación por la ciencia ficción.</item>
+        <item>Diseñador/a de moda con enfoque sostenible y ético.</item>
+        <item>Apasionado/a por la música y la producción audiovisual.</item>
+        <item>Investigador/a comprometido/a con el avance científico.</item>
+        <item>Humanitario/a dedicado/a a causas sociales y solidarias.</item>
+        <item>Empresario/a con visión innovadora y emprendedora.</item>
+        <item>Artista visual que explora diversas formas de expresión artística.</item>
+        <item>Entusiasta de los deportes y el estilo de vida saludable.</item>
+        <item>Aventurero/a que encuentra la felicidad en la exploración.</item>
+        <item>Educador/a comprometido/a con el desarrollo de habilidades.</item>
+        <item>Fotógrafo/a capturando momentos únicos y memorables.</item>
+        <item>Defensor/a del medio ambiente y la conservación.</item>
+        <item>Investigador/a en el ámbito de la tecnología y la innovación.</item>
+        <item>Amante de la gastronomía y la cocina creativa.</item>
+        <item>Artista del tatuaje que busca expresar la individualidad.</item>
+        <item>Psicólogo/a comprometido/a con el bienestar mental.</item>
+        <item>Entusiasta de la moda vintage y la cultura retro.</item>
+        <item>Explorador/a de la filosofía y las ideas innovadoras.</item>
+        <item>Entrenador/a de fitness motivando a otros hacia un estilo de vida activo.</item>
+        <item>Desarrollador/a de videojuegos con pasión por la creatividad digital.</item>
+        <item>Investigador/a en el campo de la inteligencia emocional.</item>
+    </string-array>
+
+    <string-array name="numeros_telefono_array">
+        <item>123-456-7890</item>
+        <item>987-654-3210</item>
+        <item>555-123-4567</item>
+        <item>789-012-3456</item>
+        <item>321-654-0987</item>
+        <item>876-543-2109</item>
+        <item>234-567-8901</item>
+        <item>890-123-4567</item>
+        <item>456-789-0123</item>
+        <item>012-345-6789</item>
+        <item>567-890-1234</item>
+        <item>234-567-8901</item>
+        <item>890-123-4567</item>
+        <item>345-678-9012</item>
+        <item>678-901-2345</item>
+        <item>123-456-7890</item>
+        <item>987-654-3210</item>
+        <item>555-123-4567</item>
+        <item>789-012-3456</item>
+        <item>321-654-0987</item>
+        <item>876-543-2109</item>
+        <item>234-567-8901</item>
+        <item>890-123-4567</item>
+        <item>456-789-0123</item>
+        <item>012-345-6789</item>
+        <item>567-890-1234</item>
+        <item>234-567-8901</item>
+        <item>890-123-4567</item>
+        <item>345-678-9012</item>
+    </string-array>
+
+    <string-array name="titulos_canciones_array">
+        <item>"Amanecer sin Ti"</item>
+        <item>"Vivir mi Vida"</item>
+        <item>"Bohemian Rhapsody"</item>
+        <item>"Despacito"</item>
+        <item>"Shape of You"</item>
+        <item>"Someone Like You"</item>
+        <item>"Billie Jean"</item>
+        <item>"Rolling in the Deep"</item>
+        <item>"Blinding Lights"</item>
+        <item>"Havana"</item>
+        <item>"Uptown Funk"</item>
+        <item>"Happy"</item>
+        <item>"Smooth"</item>
+        <item>"Hello"</item>
+        <item>"Echame La Culpa"</item>
+        <item>"Counting Stars"</item>
+        <item>"Dance Monkey"</item>
+        <item>"Believer"</item>
+        <item>"Bad Romance"</item>
+        <item>"Radioactive"</item>
+        <item>"Perfect"</item>
+        <item>"Soy Yo"</item>
+        <item>"Tusa"</item>
+        <item>"Watermelon Sugar"</item>
+        <item>"The Box"</item>
+        <item>"Pesadillas Urbanas"</item>
+        <item>"Fama y Fortuna"</item>
+        <item>"Laberinto de Espejos"</item>
+        <item>"Noche Eterna"</item>
+        <item>"Latidos de la Ciudad"</item>
+        <item>"Estrellas en la Calle"</item>
+    </string-array>
+
+
+</resources>

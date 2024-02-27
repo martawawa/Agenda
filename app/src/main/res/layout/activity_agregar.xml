@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/txtTituloAgregar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Agregar Contacto"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/gris_textos"
+        android:layout_marginBottom="16dp"/>
+
+    <EditText
+        android:id="@+id/nombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nombre"
+        android:layout_below="@id/txtTituloAgregar"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/azul_claro"/>
+
+    <EditText
+        android:id="@+id/descripcion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Descripción"
+        android:layout_below="@id/nombre"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/azul_claro"/>
+
+    <EditText
+        android:id="@+id/cancion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Canción"
+        android:layout_below="@id/descripcion"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/azul_claro"/>
+
+    <EditText
+        android:id="@+id/telefono"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:hint="Teléfono"
+        android:layout_below="@id/cancion"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/azul_claro"/>
+
+    <Button
+        android:id="@+id/agregar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Agregar"
+        android:layout_below="@id/telefono"
+        android:layout_marginTop="16dp"
+        style="@style/Botones"
+        android:background="@drawable/boton_redondo"/>
+</RelativeLayout>
